@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=bilgekulz&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=bilgekul&show_icons=true&theme=radical)
+
