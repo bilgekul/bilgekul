@@ -29,8 +29,12 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={bilgekul}
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=bilgekul&show_icons=true&theme=radical)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/bilgekul) 
+
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/as_a_bilgekul) 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@b.kadirhanofficial) 
+
+
+
+[![Medium Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://medium.com/@b.kadirhanofficial) 
+
 [![Linkedln Badge](https://img.shields.io/badge/-Linkedln-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
 
