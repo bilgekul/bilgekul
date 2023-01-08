@@ -11,7 +11,18 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.favpng.com/14/7/20/github-universe-desktop-wallpaper-png-favpng-8uVasNq6MNXJ7CjdtG6xSLy7i.jpg" width="auto">
 
 
+
+
+
+
+
+
 https://github-readme-stats.vercel.app/api/top-langs/?username={bilgekul}
+
+
+
+
+
 
 
 
