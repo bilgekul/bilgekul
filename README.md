@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @bilgekul, I love codes, games and cute guniea pigs :).<br>- 👀 I’m interested in web development.<br>- 🌱 I’m currently learning new web framework and how to use ai with to development web application.<br>- 💞️ I’m looking to collaborate on a new web application which use to ai for big data.<br>
+- 👋 Hi, I’m @bilgekul, I love codes, games and cute guniea pigs :).<br>- 👀 I’m interested in AI development.<br>- 🌱 I’m currently learning new web framework and how to use ai with to development web application.<br>- 💞️ I’m looking to collaborate on a new web application which use to ai for big data.<br>
 
 
 ## 🌐 Socials:
